@@ -1,9 +1,9 @@
-name              "basic_security-tlq"
-maintainer        "Ben Dixon"
-maintainer_email  "ben@talkingquickly.co.uk"
+name              "eycap-basic_security"
+maintainer        "Ben Dixon, Tyler Bird"
+maintainer_email  "ben@talkingquickly.co.uk, tbird@engineyard.com"
 description       "Locks down a basic Ubuntu Install. E.g. remove SSH password & root login etc"
 version           "0.0.2"
 
-recipe "basic_security-tlq", "Locks down a basic Ubuntu Install"
+recipe "eycap-basic_security", "Locks down a basic Ubuntu Install"
 
 supports "ubuntu"
